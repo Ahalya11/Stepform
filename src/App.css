@@ -1,0 +1,18 @@
+
+.App{
+  font-family: sans-serif;
+  text-align: center;
+  width:200px;
+  margin: 0 auto;
+  padding: 20px;
+  top:50%;
+  align-items: center;
+  background: chocolate;
+  position: relative;
+}
+
+button{
+  margin:5px;
+  background: blue;
+
+}
